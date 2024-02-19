@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soyangiee
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
+- 🤖 I’m currently learning JavaScript
 
 <!---
 soyangiee/soyangiee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
